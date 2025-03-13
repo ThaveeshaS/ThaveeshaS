@@ -1,8 +1,8 @@
 <div align="center">
   <h1>
     <a href="https://github.com/devzenmaster">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=39&pause=1000&color=FFFFFF&center=true&vCenter=true&width=635&height=70&lines=Hi%2C+I'm+Thaveesha+Sanjana%F0%9F%91%8B" 
-      alt=" Hi, I'm Thaveesha Sanjana">
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=39&pause=1000&color=FFB347&center=true&vCenter=true&width=635&height=70&lines=Hi%2C+I'm+Thaveesha+Sanjana%F0%9F%91%8B" 
+      alt="Hi, I'm Thaveesha Sanjana">
     </a>
   </h1>
 </div>
