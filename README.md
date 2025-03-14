@@ -17,9 +17,9 @@
 <tr border="none">
 <td width="50%" align="left">
 
-- 🔭 I’m currently working on **ITP Project**
+- 🔭 I’m currently working on **ITPM Project**
 
-- 🌱 I’m currently learning **Java, Kotlin, C, C++**
+- 🌱 I’m currently learning **MERN, Java, Kotlin, C, C++**
 
 - 📫 How to reach me **thaveeshasanjana4@gmail.com**
 
