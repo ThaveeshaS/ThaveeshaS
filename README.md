@@ -62,6 +62,7 @@
 <p align="center">
 <a href="https://fb.com/thaveesha sanjana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="thaveesha sanjana" height="30" width="40" /></a>
 <a href="https://instagram.com/_thaveeya_s275" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_thaveeya_s275" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/thaveeshasanjana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thaveeshasanjana" height="30" width="40" /></a>
 </p>
 
 ---
