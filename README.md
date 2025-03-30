@@ -21,7 +21,7 @@
 
 - 🌱 I’m currently learning **MERN, Java, Kotlin, C, C++**
 
-- 📫 How to reach me **thaveeshasanjana4@gmail.com**
+- 📫 How to reach me **thaveeshasanjanaofficial01@gmail.com**
 
 - ⚡ Fun fact **call me Thaveeya**
 
