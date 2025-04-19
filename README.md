@@ -19,7 +19,7 @@
 
 - 🔭 I’m currently working on **ITPM Project**
 
-- 🌱 I’m currently learning **MERN, Java, Kotlin, C, C++**
+- 🌱 I’m currently learning **Spring Boot, MERN, Java, Kotlin, C, C++**
 
 - 📫 How to reach me **thaveeshasanjanaofficial01@gmail.com**
 
