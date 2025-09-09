@@ -17,7 +17,7 @@
 <tr border="none">
 <td width="50%" align="left">
 
-- 🔭 I’m currently working on **ITPM Project**
+- 🔭 I’m currently working on **Health Care Platform Project**
 
 - 🌱 I’m currently learning **Spring Boot, MERN, Java, Kotlin, C, C++**
 
