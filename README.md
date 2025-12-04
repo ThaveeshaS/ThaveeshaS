@@ -78,6 +78,6 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,c,cpp,java,kotlin,python,php,mysql,sqlite,mongodb,express,react,nodejs,bootstrap,figma,postman,linux,firebase,spring,git,androidstudio,selenium,nextjs" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,c,cpp,java,kotlin,python,php,mysql,sqlite,mongodb,express,react,nodejs,bootstrap,figma,postman,linux,firebase,spring,git,androidstudio,selenium,nextjs,typescript" />
   </a>
 </p>
