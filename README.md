@@ -17,7 +17,7 @@
 <tr border="none">
 <td width="50%" align="left">
 
-- 🔭 I’m currently working on **Health Care Platform Project, legal Platforms, Parking System**
+- 🔭 I’m currently working on **Health Care Platform Project, Legal Platforms, Parking System**
 
 - 🌱 I’m currently learning **Spring Boot, MERN, Java, Kotlin, C, C++**
 
@@ -28,7 +28,7 @@
 </td>
 <td width="50%" align="center">
 
-<img alt="Coder GIF" height=250 width=350 src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif" />
+<img alt="Coder GIF" height="250" width="350" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif" />
   
 </td>
 </tr>
@@ -43,13 +43,16 @@
 <td width="50%" align="center">
   
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ThaveeshaS&theme=dark&show_icons=true&count_private=true" />
-  <br></br>
-  <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ThaveeshaS&theme=dark&hide_border=false" /> 
+  <br><br>
+  <img title="🔥 Get streak stats for your profile at git.io/streak-stats" 
+       alt="Streak Stats" 
+       src="https://github-readme-streak-stats.herokuapp.com/?user=ThaveeshaS&theme=dark&hide_border=false" /> 
 
 </td>
 <td width="50%" align="center">
 
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThaveeshaS&theme=dark&hide_border=false&layout=compact" />
+  <img align="center" 
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThaveeshaS&theme=dark&hide_border=false&layout=compact" />
 
 </td>
 </tr>
@@ -61,16 +64,21 @@
 
 <p align="center">
   <a href="https://fb.com/thaveesha sanjana" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="thaveesha sanjana" height="50" width="40" />
+    <img align="center" 
+         src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" 
+         alt="thaveesha sanjana" height="50" width="40" />
   </a>
   <a href="https://instagram.com/_thaveeya_s275" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_thaveeya_s275" height="50" width="40" />
+    <img align="center" 
+         src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" 
+         alt="_thaveeya_s275" height="50" width="40" />
   </a>
   <a href="https://www.linkedin.com/in/thaveeshasanjana" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thaveeshasanjana" height="50" width="40" />
+    <img align="center" 
+         src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" 
+         alt="thaveeshasanjana" height="50" width="40" />
   </a>
 </p>
-
 
 ---
 
@@ -78,6 +86,6 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,c,cpp,java,kotlin,python,php,mysql,sqlite,mongodb,express,react,nodejs,bootstrap,figma,postman,linux,firebase,spring,git,androidstudio,selenium,nextjs,typescript,tailwindcss" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,c,cpp,java,kotlin,python,php,laravel,mysql,postgresql,sqlite,mongodb,express,react,nodejs,nextjs,typescript,bootstrap,tailwindcss,figma,postman,linux,firebase,spring,git,androidstudio,selenium" />
   </a>
 </p>
