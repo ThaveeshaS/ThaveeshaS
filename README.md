@@ -23,7 +23,7 @@
 
 - 📫 How to reach me **thaveeshasanjanaofficial01@gmail.com**
 
-- ⚡ Fun fact **call me Thaveeya**
+- ⚡ Fun fact **call me Thavee**
 
 </td>
 <td width="50%" align="center">
