@@ -1,6 +1,6 @@
 <div align="center">
   <h1>
-    Hi, I'm Thaveesha Sanjana 👋
+    𝗛𝗶, 𝗜'𝗺 𝗧𝗵𝗮𝘃𝗲𝗲𝘀𝗵𝗮 𝗦𝗮𝗻𝗷𝗮𝗻𝗮 👋
   </h1>
 </div>
 
@@ -20,7 +20,7 @@
 
 - 📫 How to reach me **thaveeshasanjanaofficial01@gmail.com**
 
-- ⚡ Fun fact **call me Thavee**
+- ⚡ Fun fact **call me Thaveeya**
 
 </td>
 <td width="50%" align="center">
